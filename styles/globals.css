@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+input {
+  border: none;
+  outline: none;
+}
+
+button {
+  background-color: inherit;
+  border: none;
+}
